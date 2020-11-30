@@ -1,0 +1,1 @@
+This is my first portfolio website in the making. Getting used to Git environment as well.
